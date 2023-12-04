@@ -1,4 +1,4 @@
-# co4c547f7b193a8980eaca3fa
+# Scrimba OpenAI Chatbot
 
 Quick start:
 
