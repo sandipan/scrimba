@@ -1,4 +1,4 @@
-# co4c547f7b193a8980eaca3fa
+# Chatbot with OpenAI APIs with  Scrimba
 
 Quick start:
 
